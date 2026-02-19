@@ -1,6 +1,6 @@
 # Flask Number Analyzer
 
-Flaskの学習の一環として作成した簡単なAPIです。
+Flaskの学習の一環として作成した簡単なAPIです。  
 クエリパラメータで受け取った整数列を解析し、統計情報をJSONで返します。
 
 ## 作った理由
@@ -21,5 +21,6 @@ Flaskの学習の一環として作成した簡単なAPIです。
 - 計算ロジックを別ファイルに分けた
 
 ## 実行方法
+```bash
 pip install flask
 python app.py
